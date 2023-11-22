@@ -1,0 +1,10 @@
+.tile {
+    width: 64px;
+    height: 64px;
+    background-color: bisque;
+    border: ridge 2px beige;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
