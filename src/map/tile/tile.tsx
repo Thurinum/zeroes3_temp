@@ -4,7 +4,7 @@ import "./tile.css"
 function Tile(props: {id: number}) {
         return (
             <div className="tile">
-                <span>Tile {props.id}</span>
+                {/*<span>{props.id}</span>*/}
             </div>
         )
 }
